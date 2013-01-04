@@ -2,8 +2,8 @@
 //  main.m
 //  JTListView
 //
-//  Created by Jun on 5/6/11.
-//  Copyright 2011 Jun Tanaka. All rights reserved.
+//  Created by Eason on 5/12/12.
+//  Copyright 2012 Eason Outlook. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
